@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Mazboor App"
+date:   2019-01-31 12:30:03 +0330
+categories: Apps
+---
+Mazboor is a reminder app which can remind you by local notifcation, making categories etc.
+
+You can check the source code on [Github][Github] or download it on [SibApp][SibApp], [Anardoni][Anardoni].
+
+[Github]: https://Github.com/iw4p/checklists
+[SibApp]: https://sibapp.com/applications/checklists-1
+[Anardoni]: #
+
