@@ -17,8 +17,8 @@ title: Nimk
 email: Nimakbarzade@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Don't talk to me about my country, Let's talk about something new, like your country.
-baseurl: "Nimk" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "iw4p.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ArumBash
 github_username:  iw4p
 
