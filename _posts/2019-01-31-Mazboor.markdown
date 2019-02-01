@@ -8,7 +8,7 @@ Mazboor is a reminder app which can remind you by local notifcation, making cate
 
 You can check the source code on [Github][Github] or download it on [SibApp][SibApp], [Anardoni][Anardoni].
 
-[Github]: https://Github.com/iw4p/checklists
+[Github]: https://Github.com/iw4p/checklist
 [SibApp]: https://sibapp.com/applications/checklists-1
 [Anardoni]: #
 
