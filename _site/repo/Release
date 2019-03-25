@@ -1,8 +1,0 @@
-Origin: Nimak
-Label: Nimak
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Nimak - a cydia repo
