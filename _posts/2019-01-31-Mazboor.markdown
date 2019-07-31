@@ -10,5 +10,4 @@ You can check the source code on [Github][Github] or download it on [SibApp][Sib
 
 [Github]: https://Github.com/iw4p/checklist
 [SibApp]: https://sibapp.com/applications/checklists-1
-[Anardoni]: #
-
+[Anardoni]: https://anardoni.com/ios/app/uOmmxASZt
