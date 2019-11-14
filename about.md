@@ -21,4 +21,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-Now about me, Nima, From Iran, 19/10/2000 and trying to learn the new things as much as I can.
+Now about me, Nima, From Iran, and trying to learn the new things as much as I can.
