@@ -6,7 +6,7 @@ categories: Apps
 ---
 Mazboor is a reminder app which can remind you the things by local notifcation, also more features like making categories etc.
 
-You can check the source code on [Github][Github] or download it on ~~[SibApp][SibApp]~~ or [Anardoni][Anardoni].
+You can check the source code on [Github][Github] or download it on ~~[SibApp][SibApp]~~ or ~~[Anardoni][Anardoni]~~.
 
 [Github]: https://Github.com/iw4p/checklist
 [SibApp]: https://sibapp.com/applications/checklists-1
